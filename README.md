@@ -1,1 +1,2 @@
-# introduction-to-ai-in-business
+# Bertelsmann Scholarship - Introduction to AI in Business Onboarding
+
